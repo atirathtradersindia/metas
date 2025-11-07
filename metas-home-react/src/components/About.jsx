@@ -3,7 +3,7 @@ import React from 'react';
 export default function About() {
   return (
     <section id="about" className="px-0 mx-0 w-full max-w-none"> {/* Remove padding/margins, ensure full width */}
-      <h2 className="section-title text-center">About Metas Agro</h2> {/* Added text-center for consistency */}
+      <h2 className="section-title text-center">Abouts Metas Agro</h2> {/* Added text-center for consistency */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4 px-0 mx-0 w-full"> {/* Explicit grid columns, full width */}
         <div className="card w-full max-w-none"> {/* Full width card */}
           <h3 style={{ color: '#FFD600' }}>Who We Are</h3>
